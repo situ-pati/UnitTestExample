@@ -1,0 +1,8 @@
+D:\confidential Project Bisu\Nadera_Project_1.0\Sample\Library_Sample\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\confidential Project Bisu\Nadera_Project_1.0\Sample\Library_Sample\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\confidential Project Bisu\Nadera_Project_1.0\Sample\Library_Sample\UnitTestProject1\bin\Debug\Library_Sample.exe
+D:\confidential Project Bisu\Nadera_Project_1.0\Sample\Library_Sample\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\confidential Project Bisu\Nadera_Project_1.0\Sample\Library_Sample\UnitTestProject1\bin\Debug\Library_Sample.pdb
+D:\confidential Project Bisu\Nadera_Project_1.0\Sample\Library_Sample\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\confidential Project Bisu\Nadera_Project_1.0\Sample\Library_Sample\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\confidential Project Bisu\Nadera_Project_1.0\Sample\Library_Sample\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

@@ -1,0 +1,7 @@
+D:\confidential Project Bisu\Nadera_Project_1.0\Sample\Library_Sample\UnitTestProject1\bin\x86\Debug\UnitTestLibrary_Sample.dll
+D:\confidential Project Bisu\Nadera_Project_1.0\Sample\Library_Sample\UnitTestProject1\bin\x86\Debug\UnitTestLibrary_Sample.pdb
+D:\confidential Project Bisu\Nadera_Project_1.0\Sample\Library_Sample\UnitTestProject1\bin\x86\Debug\Library_Sample.exe
+D:\confidential Project Bisu\Nadera_Project_1.0\Sample\Library_Sample\UnitTestProject1\bin\x86\Debug\Library_Sample.pdb
+D:\confidential Project Bisu\Nadera_Project_1.0\Sample\Library_Sample\UnitTestProject1\obj\x86\Debug\UnitTestLibrary_Sample.csprojResolveAssemblyReference.cache
+D:\confidential Project Bisu\Nadera_Project_1.0\Sample\Library_Sample\UnitTestProject1\obj\x86\Debug\UnitTestLibrary_Sample.dll
+D:\confidential Project Bisu\Nadera_Project_1.0\Sample\Library_Sample\UnitTestProject1\obj\x86\Debug\UnitTestLibrary_Sample.pdb

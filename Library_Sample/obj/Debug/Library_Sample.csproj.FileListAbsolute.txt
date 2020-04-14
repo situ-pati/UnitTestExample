@@ -1,0 +1,11 @@
+D:\confidential Project Bisu\Nadera_Project_1.0\Sample\Library_Sample\Library_Sample\bin\Debug\Library_Sample.exe.config
+D:\confidential Project Bisu\Nadera_Project_1.0\Sample\Library_Sample\Library_Sample\bin\Debug\Library_Sample.exe
+D:\confidential Project Bisu\Nadera_Project_1.0\Sample\Library_Sample\Library_Sample\bin\Debug\Library_Sample.pdb
+D:\confidential Project Bisu\Nadera_Project_1.0\Sample\Library_Sample\Library_Sample\obj\Debug\Library_Sample.csprojResolveAssemblyReference.cache
+D:\confidential Project Bisu\Nadera_Project_1.0\Sample\Library_Sample\Library_Sample\obj\Debug\Library_Sample.Form1.resources
+D:\confidential Project Bisu\Nadera_Project_1.0\Sample\Library_Sample\Library_Sample\obj\Debug\Library_Sample.Properties.Resources.resources
+D:\confidential Project Bisu\Nadera_Project_1.0\Sample\Library_Sample\Library_Sample\obj\Debug\Library_Sample.csproj.GenerateResource.Cache
+D:\confidential Project Bisu\Nadera_Project_1.0\Sample\Library_Sample\Library_Sample\obj\Debug\Library_Sample.exe
+D:\confidential Project Bisu\Nadera_Project_1.0\Sample\Library_Sample\Library_Sample\obj\Debug\Library_Sample.pdb
+D:\confidential Project Bisu\Nadera_Project_1.0\Sample\Library_Sample\Library_Sample\obj\Debug\Library_Sample.Add_Books.resources
+D:\confidential Project Bisu\Nadera_Project_1.0\Sample\Library_Sample\Library_Sample\obj\Debug\Library_Sample.frm_mainscreen.resources
